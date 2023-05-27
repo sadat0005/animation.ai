@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Animation Studio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 32px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AI Animation Studio</h1>
+  </header>
+
+  <div class="container">
+    <h2>Welcome to AI Animation Studio</h2>
+    <p>Create amazing animations with the power of artificial intelligence!</p>
+    <p>Our AI-powered animation tools allow you to bring your imagination to life. Whether you're an artist, designer, or hobbyist, our platform provides the capabilities to generate stunning animations effortlessly.</p>
+    <p>Get started by exploring our gallery of pre-built animation templates or unleash your creativity by training your own AI models. With our intuitive interface and powerful AI algorithms, the possibilities are endless.</p>
+    <p>Join us on this exciting journey and revolutionize the world of animation!</p>
+  </div>
+
+  <footer>
+    <p>&copy; 2023 AI Animation Studio. All rights reserved.</p>
+  </footer>
+</body>
+</html>
